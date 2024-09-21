@@ -15,7 +15,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /笔记/主页
+      link: /笔记/主页/主页
     - theme: alt
       text: 加入 Discord 服务器(暂无)
       link: 暂无
