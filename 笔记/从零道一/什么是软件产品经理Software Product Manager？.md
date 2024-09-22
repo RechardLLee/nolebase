@@ -17,7 +17,7 @@ language: en&zh
 - 在产品层面执行公司想法
 - 在适当的时间将合适的产品推向市场
 - 协调开发、市场营销、销售并支持等其他职能部门
-- [SPM的能力](assets/Pasted%20image%2020240922161502.png)
+- ![SPM的能力](assets/Pasted%20image%2020240922161502.png)
 
 ## SPM真正做的是什么？
 - 定义`产品愿景Product Vision`
