@@ -3,7 +3,7 @@ comment: true
 language: en&zh
 ---
 
-# How to write a tech blog that people actually read？
+# 技术性博客的一生
 ## Thoughts
 撰写技术博客是一个分享知识，建立个人知识库并与同行相互交流学习的一种方式。
 
