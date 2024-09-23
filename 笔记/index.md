@@ -5,7 +5,7 @@ comment: true
 
 ## 木子白的知识库
 
-欢迎来到木子白的知识库 [从零道一 | 记录回忆，分享知识，相互交流 (from0to1.vercel.app)](https://from0to1.vercel.app/)，这里是 📒 笔记分区
+欢迎来到Lee的知识库 [从零道一 | 记录回忆，分享知识，相互交流 (from0to1.vercel.app)](https://from0to1.vercel.app/)，这里是 📒 笔记分区
 
 ## 开栏记录
 
