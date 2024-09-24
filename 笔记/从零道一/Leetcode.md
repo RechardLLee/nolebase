@@ -39,7 +39,7 @@ comment: true
 ## 解法
 ### 一
 
-``` C++
+``` 
 class Solution {
 
 public:
@@ -82,7 +82,7 @@ public:
 12.72MB 击败66.64%
 ### 二
 优化无意义的内存消耗
-``` C++
+``` 
 class Solution {
 
 public:
@@ -124,7 +124,7 @@ public:
 
 ### 三
 找到后直接break循环
-``` C++
+``` 
 class Solution {
 
 public:
@@ -168,7 +168,7 @@ public:
 
 ### 四
 突然发现，并不需要将`j`从0开始循环，直接从`i+1`开始即可，因为，如果在前面找得到的话，之前的循环中就应该找出来了。
-``` C++
+``` 
 class Solution {
 
 public:
@@ -205,7 +205,7 @@ public:
 
 ### 五
 使用排序+查找（快排+二分查找）
-``` C++
+``` 
 class Solution {
 
 public:
@@ -270,7 +270,7 @@ public:
 深度优化——将时间复杂度从$O(n\log n)$降低
 但是由于使用了`哈希表Hash table`，通过空间换时间
 对于每一个 `x`，我们首先查询哈希表中是否存在 `target - x`，然后将 `x` 插入到哈希表中。
-``` C++
+``` 
 class Solution {
 
 public:
@@ -339,7 +339,7 @@ public:
 
 ## 解法
 ### 一
-``` C++
+``` 
 /**
 
  * Definition for singly-linked list.
